@@ -1,6 +1,6 @@
 name: web_app_config
 description: Tools for configuring web apps with environment variables and YAML
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/johnpryan/web_app_config
 author: John Ryan <john.p.ryan4@gmail.com>
 
